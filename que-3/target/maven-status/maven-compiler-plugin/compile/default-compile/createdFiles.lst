@@ -1,0 +1,6 @@
+com\example\demo\service\EmailService.class
+com\example\demo\service\SetterInjectionService.class
+com\example\demo\DiDemoApplication.class
+com\example\demo\service\ConstructorInjectionService.class
+com\example\demo\service\FieldInjectionService.class
+com\example\demo\controller\DiController.class
